@@ -1,3 +1,8 @@
+# Longest Increasing Subsequence
+
+## Problem Description
+Given an unsorted array of integers, find the length of the longest increasing subsequence (LIS).
+
 ## Solutions
 This repository contains two solutions to the Longest Increasing Subsequence problem implemented in C++.
 
