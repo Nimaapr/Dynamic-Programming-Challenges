@@ -6,7 +6,7 @@ This repository is a collection of various dynamic programming problems and thei
 
 1. **Coin Change Problem**
    - A classic problem dealing with finding the minimum number of coins that make a given value from a set of coin denominations.
-   - [Go to Coin Change Problem](Coin%20Change%20Problem/)
+   - [Go to Coin Change Problem](Coin%20Change/)
 
 2. **0/1 Knapsack Problem**
    - This problem involves selecting items with given weights and values to maximize the total value without exceeding a weight limit.
