@@ -8,11 +8,15 @@ This repository is a collection of various dynamic programming problems and thei
    - A classic problem dealing with finding the minimum number of coins that make a given value from a set of coin denominations.
    - [Go to Coin Change Problem](Coin%20Change/)
 
-2. **0/1 Knapsack Problem**
+2. **Coin Change 2 Problem**
+   - An extension of the Coin Change problem, it involves finding the number of ways to make change for a particular amount with a given set of coins.
+   - [Go to Coin Change 2 Problem](Coin-Change-2/)
+
+3. **0/1 Knapsack Problem**
    - This problem involves selecting items with given weights and values to maximize the total value without exceeding a weight limit.
    - [Go to 0/1 Knapsack Problem](Knapsack/)
 
-3. **Longest Increasing Subsequence**
+4. **Longest Increasing Subsequence**
    - This repository contains solutions to find the length of the longest subsequence of a given sequence in which all elements are sorted in increasing order.
    - [Go to Longest Increasing Subsequence](Longest-Increasing-Subsequence/)
 
