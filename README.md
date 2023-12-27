@@ -1,6 +1,6 @@
 # Dynamic Programming Challenges
 
-This repository is a collection of various dynamic programming problems and their solutions, showcasing the use of this powerful technique in solving complex algorithmic challenges. The problems range from optimization tasks like the Knapsack problem to combinatorial problems such as the Longest Increasing Subsequence.
+This repository is a collection of various dynamic programming problems and their solutions, showcasing the use of this powerful technique in solving complex algorithmic challenges. The problems range from optimization tasks like the Knapsack problem to combinatorial problems such as the Longest Increasing Subsequence, as well as matrix and string manipulation problems.
 
 ## Contents
 
@@ -19,6 +19,19 @@ This repository is a collection of various dynamic programming problems and thei
 4. **Longest Increasing Subsequence**
    - This repository contains solutions to find the length of the longest subsequence of a given sequence in which all elements are sorted in increasing order.
    - [Go to Longest Increasing Subsequence](Longest-Increasing-Subsequence/)
+  
+5. **Longest Increasing Path in a Matrix**
+   - A problem that involves finding the longest increasing path through a matrix.
+   - [Go to Longest Increasing Path in a Matrix](Longest-Increasing-Path/)
+
+6. **Minimum Difficulty of a Job Schedule**
+   - This challenge focuses on finding the minimum difficulty of scheduling jobs over a number of days.
+   - [Go to Minimum Difficulty of a Job Schedule](Min-Difficulty-Job-Schedule/)
+
+7. **Palindrome Partitioning II**
+   - An advanced string manipulation problem that involves finding the minimum number of cuts needed to partition a string such that every substring is a palindrome.
+   - [Go to Palindrome Partitioning II](Palindrome-Partitioning-II/)
+
 
 ## Overview
 
