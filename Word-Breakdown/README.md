@@ -12,7 +12,7 @@ Given a non-empty string `s` and a dictionary `wordDict` containing a list of no
 - The algorithm checks for each substring of `s` whether it can be formed by concatenating words from the dictionary.
 
 ## Complexity Analysis
-- **Time Complexity**: O(n^2), where n is the length of the input string `s`. The nested loop in the implementation leads to quadratic time complexity.
+- **Time Complexity**: O(n^2 \times m), where `n` is the length of the input string `s` and `m` is the maximum length of a word in `wordDict`. The nested loop in the implementation, along with the string comparison operation, contributes to this complexity.
 - **Space Complexity**: O(n), due to the additional dynamic programming array used to store the subproblem solutions.
 
 ## Usage
