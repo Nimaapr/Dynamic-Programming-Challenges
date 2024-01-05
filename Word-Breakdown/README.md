@@ -18,7 +18,7 @@ Given a non-empty string `s` and a dictionary `wordDict` containing a list of no
 ## Usage
 To use this script, run it with Python and provide the string `s` and the list `wordDict`. For example:
 ```python
-from word_break import wordBreak
+from word_breakdown import wordBreak
 
 s = "leetcode"
 wordDict = ["leet", "code"]
